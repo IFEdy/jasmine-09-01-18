@@ -1,0 +1,16 @@
+{
+  "name": "stringbuilder",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "chain-builder": "^0.13.2",
+    "jasmine": "^2.8.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "jasmine"
+  },
+  "author": "",
+  "license": "ISC"
+}
